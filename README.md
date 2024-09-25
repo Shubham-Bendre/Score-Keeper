@@ -34,7 +34,7 @@ A simple and intuitive scorekeeper web app to keep track of game scores for spor
 
 ## 📸 Screenshots
 
-### 🍣 1️⃣ Main Page
+### 1️⃣ Main Page
 ![Main Page](./screenshots/main_page.png)
 
 ## 📋 Usage
